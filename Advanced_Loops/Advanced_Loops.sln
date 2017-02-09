@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers 1...N with Step 3", "Numbers 1...N with Step 3\Numbers 1...N with Step 3.csproj", "{EF134345-8940-4EC6-AA90-ED92CBECEDAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers 1...N with Step 3", "Numbers 1...N with Step 3\Numbers 1...N with Step 3.csproj", "{4BA27B06-33BF-4385-90C4-732252CBE0DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EF134345-8940-4EC6-AA90-ED92CBECEDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EF134345-8940-4EC6-AA90-ED92CBECEDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EF134345-8940-4EC6-AA90-ED92CBECEDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EF134345-8940-4EC6-AA90-ED92CBECEDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA27B06-33BF-4385-90C4-732252CBE0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA27B06-33BF-4385-90C4-732252CBE0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA27B06-33BF-4385-90C4-732252CBE0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA27B06-33BF-4385-90C4-732252CBE0DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

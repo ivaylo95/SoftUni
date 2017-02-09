@@ -4,17 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1000_Days_After_Birth
+namespace Celsius_to_Fahrenheit
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Input your birthday: ");
-            string format = "dd-MM-yyyy";
-            string value = Console.ReadLine();
-            DateTime userBirthday = DateTime.ParseExact(value, format, null);
-            Console.WriteLine(userBirthday.AddDays(999).ToString(format));
+            Console.Write("C: ");
+            var C = double.Parse(Console.ReadLine());
+            var F = C * 1.8 + 32;
+            Console.WriteLine("F: {0}",Math.Round(F,2));
             Console.ReadLine();
         }
     }

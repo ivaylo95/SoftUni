@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4273B368-03A5-485A-94A0-511E6B398A6A}</ProjectGuid>
+    <ProjectGuid>{47400E87-60BD-477A-A3E3-448A95D55145}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Volleyball</RootNamespace>
-    <AssemblyName>Volleyball</AssemblyName>
+    <RootNamespace>Flowers</RootNamespace>
+    <AssemblyName>Flowers</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

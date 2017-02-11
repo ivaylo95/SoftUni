@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Concatenate-Data")]
+[assembly: AssemblyTitle("Change Tiles")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Concatenate-Data")]
+[assembly: AssemblyProduct("Change Tiles")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("81dd65a6-c222-4d69-80e8-1db98033fb2a")]
+[assembly: Guid("e79a98e7-19a7-4b08-90e6-1532a9d8f05e")]
 
 // Version information for an assembly consists of the following four values:
 //
